@@ -16,6 +16,7 @@ body{
     height: 850px;
     display: grid;
     grid-template-columns: 300px  500px;
+    box-shadow: 10px;
 
 }
 /* Mise en forme gauche et  droite*/
